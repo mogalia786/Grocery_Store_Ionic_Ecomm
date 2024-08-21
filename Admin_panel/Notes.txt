@@ -1,0 +1,47 @@
+Open cmd to path of root folder for admin panel
+ng build --configuration production --aot ............To Build Release
+Zip the App_source_code\Admin_panel\dist\coreui-free-angular-admin-template folder
+And the Api
+
+Create a subdomain on host -----Backend and Admin
+Set them as Https
+
+Unzip coreui-free-angular-admin-template folder into Admin 
+Unzip API into Backend
+
+run backend.mogalia.co.za installation
+then open admin.mogalia.co.za
+
+
+
+clear storage/logs/laravel.log
+
+in environment.ts and envronment.prod.ts
+Set Environmental URLS to 
+production: true,
+baseUrl: 'https://backend.mogalia.co.za/public/',
+imageUrl: 'https://backend.mogalia.co.za/storage/'
+
+DB -> mogalia1_backend
+User -> mogalia1_backend
+PWD -> .t.)HI8k$Mi2
+
+
+firebase project?
+
+thank you boss
+
+please i need to chat about a project urgently
+
+open firebase on chrome hello?
+open i firebase project in chrome browbwer...
+
+
+GOOGLE CHROME PLEASE
+
+IN API CHECK
+Check Fireauth.Blade.php credentials>>>>>>>>>
+UthController.php
+API.php has all the routing
+
+util.services.ts>>>>>>>>>>>>>>>>>Remove the Buy Option

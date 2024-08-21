@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Grocery Delivery Boy</string>
+    <string name="title_activity_main">Grocery Delivery Boy</string>
+    <string name="package_name">com.onezero.driver</string>
+    <string name="custom_url_scheme">com.onezero.driver</string>
+</resources>
